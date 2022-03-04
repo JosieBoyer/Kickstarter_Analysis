@@ -9,12 +9,10 @@
 ### Analysis of Outcomes Based On Launch Date
 
 - When we look at the data, correlating the success of theater productions with the launch date of their campaigns, we see the most promising results came from campaigns that were launched between May and June, which taper off dramatically for the remainder of the year.  There is a brief uptick in the number of successful campaigns in October, but a far higher uptick in the number of failed productions.  This that while a briefly higher number of campaigns are being launched in October, the success rate is much more volatile. By the time we reach December, the number of failed and successful plays is almost identical, suggesting an unacceptable 50% rate of failure.  One particular limitation of this data set is the designation of certain campaigns as "live" or "cancelled", which may have subtly impacted the analysis had they been included with "successful" or "failed" projects, respectively.
-![OUTCOMES BASED ON GOALS](https://github.com/ZeroDarkHardy/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 - We see the most ideal conditions for success in campaigns with funding goals under $5,000 (slightly better under $1,000), with a success rate of 73%, then taper off dramatically and end up with the odds stacked heavily against success by the $25,000 mark.  What's interesting is that we see a drastic uptick in viability in campaigns with goals between $35,000 and $40,000, with a success rate of around 67%.  After that, beginning at $45,000, we see almost no viability for success, ranging from 87%-100% failure rates.
-![OUTCOMES BASED ON GOALS](https://github.com/ZeroDarkHardy/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
